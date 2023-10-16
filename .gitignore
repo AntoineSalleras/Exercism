@@ -3,7 +3,7 @@
 **/**/node_modules/
 **/**/.eslintignore
 **/**/*.cjs
-**/**/*.mjs
+**/**/*.pnp.loader.mjs
 **/**/*.yml
 **/**/*.md
 **/**/*.json
