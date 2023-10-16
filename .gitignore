@@ -3,6 +3,7 @@
 **/**/node_modules/
 **/**/.eslintignore
 **/**/*.cjs
+**/**/*.mjs
 **/**/*.yml
 **/**/*.md
 **/**/*.json
